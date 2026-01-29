@@ -16,16 +16,15 @@
         >
           <div>
             <p class="font-display text-4xl font-medium tracking-tighter text-blue-900 sm:text-5xl">
-              Stay up to date
+              Rămâneți la curent
             </p>
             <p class="mt-4 text-lg tracking-tight text-blue-900">
-              Get updates on all of our events and be the first to get notified when tickets go on
-              sale.
+              Obțineți actualizări la toate evenimentele noastre și fiți printre primii notificați când biletele se pun în vânzare.
             </p>
           </div>
           <form>
             <h3 class="text-lg font-semibold tracking-tight text-blue-900">
-              Sign up to our newsletter <span aria-hidden="true">&darr;</span>
+              Abonați-vă la newsletter-ul nostru <span aria-hidden="true">&darr;</span>
             </h3>
             <div
               class="mt-5 flex rounded-3xl bg-white py-2.5 pr-2.5 shadow-xl shadow-blue-900/5 focus-within:ring-2 focus-within:ring-blue-900"
@@ -33,12 +32,12 @@
               <input
                 type="email"
                 required
-                placeholder="Email address"
-                aria-label="Email address"
+                placeholder="Adresă de email"
+                aria-label="Adresă de email"
                 class="-my-2.5 flex-auto bg-transparent pr-2.5 pl-6 text-base text-slate-900 placeholder:text-slate-400 focus:outline-hidden"
               />
-              <Button type="submit">
-                <span class="sr-only sm:not-sr-only">Sign up today</span>
+              <Button type="submit" class="flex-none">
+                <span class="sr-only sm:not-sr-only">Abonați-vă azi</span>
                 <span class="sm:hidden">
                   <svg aria-hidden="true" viewBox="0 0 24 24" class="h-6 w-6">
                     <path

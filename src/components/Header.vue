@@ -9,14 +9,14 @@
       >
         <div class="mx-auto flex items-center gap-4 px-4">
           <p>
-            <time datetime="2022-04-04">04</time>-<time datetime="2022-04-06">06 of April, 2022</time>
+            <time datetime="2022-04-04">04</time>-<time datetime="2022-04-06">06 aprilie, 2022</time>
           </p>
           <DiamondIcon class="h-1.5 w-1.5 overflow-visible fill-current stroke-current" />
           <p>Los Angeles, CA</p>
         </div>
       </div>
       <div class="hidden sm:mt-10 sm:flex lg:mt-0 lg:grow lg:basis-0 lg:justify-end">
-        <Button href="#">Get your tickets</Button>
+        <Button href="#">Obțineți bilete</Button>
       </div>
     </Container>
   </header>

@@ -16,10 +16,10 @@
     <Container>
       <div class="mx-auto max-w-2xl lg:mx-0">
         <h2 id="speakers-title" class="font-display text-4xl font-medium tracking-tighter text-blue-600 sm:text-5xl">
-          Speakers
+          Vorbitori
         </h2>
         <p class="mt-4 font-display text-2xl tracking-tight text-blue-900">
-          Learn from the experts on the cutting-edge of deception at the most sinister companies.
+          Învățați de la experții din primul rând al înșelăciunilor la cele mai sinistre companii.
         </p>
       </div>
       <TabGroup

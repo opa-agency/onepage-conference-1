@@ -3,11 +3,11 @@
     <Container class="relative z-10">
       <div class="mx-auto max-w-2xl lg:mx-0 lg:max-w-4xl lg:pr-24">
         <h2 class="font-display text-4xl font-medium tracking-tighter text-blue-600 sm:text-5xl">
-          Our three day schedule is jam-packed with brilliant, creative, evil geniuses.
+          Programul nostru de trei zile este plin de genii strălucitori, creativi și răi.
         </h2>
         <p class="mt-4 font-display text-2xl tracking-tight text-blue-900">
-          The worst people in our industry giving the best talks you’ve ever seen. Nothing will be
-          recorded and every attendee has to sign an NDA to watch the talks.
+          Cei mai rai oameni din industria noastră oferind cele mai bune discursuri pe care le-ați văzut vreodată. Nimic nu va fi
+          înregistrat și fiecare participant trebuie să semneze un NDA pentru a urmări vorbitorii.
         </p>
       </div>
     </Container>

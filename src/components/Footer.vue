@@ -3,7 +3,7 @@
     <Container class="flex flex-col items-center justify-between md:flex-row">
       <Logo class="h-12 w-auto text-slate-900" />
       <p class="mt-6 text-base text-slate-500 md:mt-0">
-        Copyright &copy; {{ year }} DeceptiConf, LLC. All rights reserved.
+        Drepturi de autor &copy; {{ year }} DeceptiConf, LLC. Toate drepturile rezervate.
       </p>
     </Container>
   </footer>
